@@ -12,3 +12,10 @@ where `home` is the name of the new component.
     ng generate interface housinglocation
 
 where `housinglocation` is the name of the new interface.
+
+
+## Create a new service
+
+    ng generate service housing --skip-tests
+
+where `housing` is the name of the new service.
