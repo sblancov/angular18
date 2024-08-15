@@ -2,16 +2,35 @@
 
 A new project to learn Angular 18
 
+
 ## Developer Guide
+
 
 ### Requirements
 
 * Linux environment (Debian or similar)
 * asdf command
 
+
 ### Install nodejs
 
     asdf install
     asdf local $(cat .tool-versions)
 
-These commands install the current version of nodejs used in this project.
+
+### Install Angular CLI
+
+    npm install -g @angular/cli
+
+
+### Install VSCode extension
+
+* [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+
+
+## References
+
+* [Install Angular](https://angular.dev/installation)
+* [Angular versions](https://angular.dev/reference/versions)
+* [First App](https://angular.dev/tutorials/first-app)
+* [Setup local Angular](https://angular.dev/tools/cli/setup-local)
