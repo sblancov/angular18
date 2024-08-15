@@ -27,6 +27,10 @@ A new project to learn Angular 18
 
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
+### How To
+
+Take a look of [How To](./docs/development/howto.md) document.
+
 
 ## References
 
