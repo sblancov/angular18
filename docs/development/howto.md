@@ -32,3 +32,7 @@ where `housing` is the name of the new service.
 Execute the next command from the project root directory:
 
     json-server db.json
+
+## Deployment
+
+    ng deploy first-app --repo=git@github.com:sblancov/angular18.git --base-href=/angular18/
